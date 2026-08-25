@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Nikhil Jai — AI Systems · Backend · Cloud Architecture" width="100%">
+  <img src="assets/banner.svg" alt="Nikhil Jai — AI Engineer · Agents · LLM Infrastructure" width="100%">
 </div>
 
 <p align="center">
@@ -9,19 +9,9 @@
   <img alt="Location" src="https://img.shields.io/badge/base-Hyderabad,%20IN-0B0E14?style=flat-square&labelColor=0B0E14&color=64748B">
 </p>
 
----
-
-### `~/ whoami`
-
-```txt
-Kola Nikhil Jai
-B.Tech Information Technology — Vignan Institute of Technology & Science, Hyderabad
-SWE Intern @ CDPL · Feb 2026 → present
-
-I build the unglamorous middle of AI products: the gateway that picks the
-right model, the worker that reproduces a bug inside a sandbox before it
-touches a PR, and the cache that makes the second call cost nothing.
-```
+<div align="center">
+  <img src="assets/terminal.svg" alt="whoami — Nikhil Jai, AI Engineer Intern @ Intants" width="840">
+</div>
 
 ---
 
@@ -86,17 +76,6 @@ flowchart LR
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhiljai03&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=475569&langs_count=6" alt="Top languages" height="150">
   </picture>
 </div>
-
----
-
-### `~/ currently`
-
-```console
-$ nikhil --status
-▸ shipping   agentic dev-tooling — issue triage, sandboxed repro, auto-PR
-▸ learning   distributed systems, eval harnesses for LLM pipelines
-▸ open to    backend / AI-infra internships and open-source collaboration
-```
 
 <div align="center">
   <br>

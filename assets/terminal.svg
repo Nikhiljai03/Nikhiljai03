@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="362" viewBox="0 0 900 362" role="img" aria-label="Terminal: Nikhil Jai, AI Engineer Intern at Intants">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="900" y2="362" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0E16"/>
+      <stop offset="1" stop-color="#0D131E"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#121924"/>
+      <stop offset="1" stop-color="#0F151F"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="0.6" stop-color="#A78BFA" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="362" rx="13" fill="url(#win)"/>
+  <path d="M0 13 A13 13 0 0 1 13 0 H887 A13 13 0 0 1 900 13 V44 H0 Z" fill="url(#bar)"/>
+  <rect x="0" y="43.5" width="900" height="1" fill="url(#edge)"/>
+  <rect x="0.5" y="0.5" width="899" height="361" rx="13" fill="none" stroke="#1E293B"/>
+
+  <circle cx="26" cy="22" r="6" fill="#FF5F57"/>
+  <circle cx="47" cy="22" r="6" fill="#FEBC2E"/>
+  <circle cx="68" cy="22" r="6" fill="#28C840"/>
+  <text x="450" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#5B6B85">nikhil@intants &#8212; ~/work</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5">
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03;0.045;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="82"><tspan fill="#22D3EE">$</tspan><tspan fill="#E2E8F0" dx="9">whoami</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.085;0.1;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="112"><tspan fill="#A78BFA">&#8250;</tspan><tspan fill="#F1F5F9" dx="11" font-weight="600">Nikhil Jai</tspan><tspan fill="#475569" dx="9">&#183;</tspan><tspan fill="#94A3B8" dx="9">AI Engineer Intern @ </tspan><tspan fill="#22D3EE" font-weight="600">Intants</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15;0.165;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="152"><tspan fill="#22D3EE">$</tspan><tspan fill="#E2E8F0" dx="9">cat focus.md</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.205;0.22;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="182"><tspan fill="#A78BFA">&#8250;</tspan><tspan fill="#94A3B8" dx="11">LLM gateways &#183; autonomous agents &#183; RAG pipelines &#183; the infra under them</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.27;0.285;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="222"><tspan fill="#22D3EE">$</tspan><tspan fill="#E2E8F0" dx="9">./status --now</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.325;0.34;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="252"><tspan fill="#34D399">&#9654;</tspan><tspan fill="#CBD5E1" dx="11">shipping</tspan><tspan fill="#475569" dx="14">&#8594;</tspan><tspan fill="#94A3B8" dx="14">agentic dev-tooling: triage, sandboxed repro, auto-PR</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.38;0.395;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="282"><tspan fill="#FBBF24">&#9654;</tspan><tspan fill="#CBD5E1" dx="11">learning</tspan><tspan fill="#475569" dx="14">&#8594;</tspan><tspan fill="#94A3B8" dx="14">distributed systems &#183; eval harnesses for LLM pipelines</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.435;0.45;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="312"><tspan fill="#22D3EE">&#9654;</tspan><tspan fill="#CBD5E1" dx="11">open to</tspan><tspan fill="#475569" dx="14">&#8594;</tspan><tspan fill="#94A3B8" dx="14">AI-infra work &amp; open-source collaboration</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.49;0.505;1" dur="13s" repeatCount="indefinite"/>
+      <text x="30" y="344" fill="#22D3EE">$</text>
+      <rect x="47" y="331" width="9" height="17" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+  </g>
+</svg>
