@@ -67,14 +67,9 @@ flowchart LR
 ### `~/ signals`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nikhiljai03&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=94A3B8&icon_color=22D3EE&ring_color=A78BFA">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nikhiljai03&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=475569&icon_color=0891B2&ring_color=7C3AED" alt="GitHub stats" height="150">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhiljai03&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=94A3B8&langs_count=6">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhiljai03&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=475569&langs_count=6" alt="Top languages" height="150">
-  </picture>
+  <img src="assets/stats.svg" alt="GitHub statistics — contributions, repos, languages, code shipped" width="840">
+  <br><br>
+  <sub>Rendered straight from the GitHub API by a <a href="https://github.com/Nikhiljai03/Nikhiljai03/actions/workflows/stats.yml">scheduled Action</a> — self-hosted, no third-party widgets.</sub>
 </div>
 
 <div align="center">
