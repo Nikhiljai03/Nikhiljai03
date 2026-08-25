@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://kolanikhiljai.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-kolanikhiljai.vercel.app-0B0E14?style=flat-square&labelColor=0B0E14&color=22D3EE"></a>
-  <a href="mailto:nikhilraina95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-nikhilraina95@gmail.com-0B0E14?style=flat-square&labelColor=0B0E14&color=A78BFA"></a>
+  <a href="https://linkedin.com/in/nikhil-jai"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-nikhil--jai-0B0E14?style=flat-square&labelColor=0B0E14&color=A78BFA"></a>
+  <a href="mailto:nikhilraina95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-nikhilraina95@gmail.com-0B0E14?style=flat-square&labelColor=0B0E14&color=38BDF8"></a>
   <img alt="Location" src="https://img.shields.io/badge/base-Hyderabad,%20IN-0B0E14?style=flat-square&labelColor=0B0E14&color=64748B">
 </p>
 
@@ -102,6 +103,7 @@ $ nikhil --status
   <sub><i>"In the game of algorithms, I compete to dominate and conquer to win."</i></sub>
   <br><br>
   <a href="https://kolanikhiljai.vercel.app/"><b>Portfolio</b></a> ·
+  <a href="https://linkedin.com/in/nikhil-jai"><b>LinkedIn</b></a> ·
   <a href="mailto:nikhilraina95@gmail.com"><b>Email</b></a> ·
   <a href="https://github.com/Nikhiljai03?tab=repositories"><b>All repos</b></a>
 </div>
